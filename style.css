@@ -1,7 +1,20 @@
 body{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.slide-bg-color{
 
+    background-color: #FCEAE8;
+
+}
+.categories-watch-bg-color{
+    background-color: #FFA500;
+}
+.categories-bag-bg-color{
+    background-color: #DA70D6;
+}
+.categories-shoes-bg-color{
+    background-color: #0000FF;
+}
 .slide-heading{
     font-size: 56px;
 }
